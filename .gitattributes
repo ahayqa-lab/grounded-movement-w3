@@ -1,0 +1,2 @@
+# Keep script files byte-for-byte (UTF-8 BOM, original line endings)
+*.ws -text
